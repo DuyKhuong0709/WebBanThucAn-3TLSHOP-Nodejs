@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "643514a1bace6b0a68b33384"
+  },
+  "name": "Khang",
+  "email": "khang@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-11T08:04:49.020Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T08:04:49.020Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435230bbace6b0a68b33385"
+  },
+  "name": "Lâm",
+  "email": "lam@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-11T09:06:19.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:06:19.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64352331bace6b0a68b33386"
+  },
+  "name": "Khương",
+  "email": "khuong@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-11T09:06:57.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:06:57.838Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64352352bace6b0a68b33387"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "000",
+  "address": "",
+  "phone": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-04-11T09:07:30.484Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:07:30.484Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64358875eee41f3090ac90ef"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-11T16:19:01.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T16:19:01.355Z"
+  },
+  "__v": 0
+}]

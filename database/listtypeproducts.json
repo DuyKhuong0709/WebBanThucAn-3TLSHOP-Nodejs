@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6375d4f9a00076094824d77a"
+  },
+  "name": "Thịt",
+  "img": "https://media.istockphoto.com/id/1206175516/vi/vec-to/vector-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-th%E1%BB%8Bt-b%C3%ADt-t%E1%BA%BFt-h%C3%ACnh-minh-h%E1%BB%8Da-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-%C4%91%C6%B0%E1%BB%9Dng-vi%E1%BB%81n-b%E1%BB%8B-c%C3%B4-l%E1%BA%ADp.jpg?s=1024x1024&w=is&k=20&c=5fgb1jWgOydts6YZev27C4aGJWQQNRvjK09tBrx7cVQ=",
+  "cloudinary_id": "p0hjanja70f5z5jooeir",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:17.582Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:17.582Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d4f0a00076094824d779"
+  },
+  "name": "Hải sản",
+  "img": "https://media.istockphoto.com/id/534048793/vi/vec-to/bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-t%C3%B4m.jpg?s=1024x1024&w=is&k=20&c=8V1Z-jNZR_PtotX7Lzq-9QeB-MNKApUHAD-0zihLG7E=",
+  "cloudinary_id": "xg66rfo25ipudpnjvrz6",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:08.461Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:08.461Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d505a00076094824d77b"
+  },
+  "name": "Nước uống",
+  "img": "https://media.istockphoto.com/id/910691396/vi/vec-to/flat-color-icon-%C4%91%E1%BB%93-u%E1%BB%91ng-cocktail.jpg?s=1024x1024&w=is&k=20&c=ApCpHdzFkf-hK4yWD7O-kjGaHsEmruB1zgMkyJ0KVcs=",
+  "cloudinary_id": "jagqfsuh5mfjelnsh7ia",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:29.045Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:29.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d51ba00076094824d77d"
+  },
+  "name": "Tráng miệng",
+  "img": "https://media.istockphoto.com/id/1089795110/vi/vec-to/m%C3%B3n-khai-v%E1%BB%8B-bowl-icon-vector-tr%C3%AAn-n%E1%BB%81n-tr%E1%BA%AFng-m%C3%B3n-khai-v%E1%BB%8B-b%C3%A1t-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-%C4%91%E1%BA%A7y-th%E1%BB%9Di-th%C6%B0%E1%BB%A3ng-t%E1%BB%AB.jpg?s=1024x1024&w=is&k=20&c=1KId4eyT5hpoCA1-IXDIveOf7X4iyP0ozx5H4HT_G2I=",
+  "cloudinary_id": "sjnfuimbmrj4lm5pxvgj",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:51.841Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:51.841Z"
+  },
+  "__v": 0
+}]
