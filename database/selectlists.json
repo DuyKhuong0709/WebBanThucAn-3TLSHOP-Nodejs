@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6375d4d7a00076094824d777"
+  },
+  "options": [
+    "Rare",
+    "Medium Rare",
+    "Sashimi"
+  ],
+  "name": "Tái",
+  "property": "tái",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d491a00076094824d773"
+  },
+  "options": [
+    "Medium",
+    "Medium Well",
+    "Well Done"
+  ],
+  "name": "Chín",
+  "property": "chín",
+  "__v": 0
+}]

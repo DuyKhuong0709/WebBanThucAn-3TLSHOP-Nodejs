@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "62dfa07e0324394df0d4591f"
+  },
+  "sender": "Khang",
+  "message": "Hi",
+  "idConversation": {
+    "$oid": "62878ab009fa6315268fdb9e"
+  },
+  "createAt": {
+    "$numberLong": "1658822782739"
+  },
+  "createdAt": {
+    "$date": "2022-07-26T08:06:22.740Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-26T08:06:22.740Z"
+  },
+  "__v": 0
+}]
